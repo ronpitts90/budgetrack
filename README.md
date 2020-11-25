@@ -3,7 +3,7 @@
 # budgetrack
 
 ## Description 
-This application allows the user to add expenses whther on or offline. If offline the expenses add on once the user logs back on. 
+This application allows the user to add expenses whether on or offline. If offline the expenses add on once the user logs back on. 
 
 ## Installation
 In order to use this fitness tracker the following must be installed; Mongo, express, logger, mongoose, and Heroku. 
